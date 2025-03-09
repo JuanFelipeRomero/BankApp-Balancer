@@ -1,0 +1,7 @@
+{
+  "servidores": [
+    { "ip": "localhost", "puerto": 5001 },
+    { "ip": "localhost", "puerto": 5002 },
+    { "ip": "localhost", "puerto": 5003 }
+  ]
+}
